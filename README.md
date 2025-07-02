@@ -2,17 +2,11 @@
 
 <div align="center">
 
-  <br />
-    <a href="https://youtu.be/63McfqGULvA?si=A7jpVj9SZ1Ad9b9D" target="_blank">
-      <img src="https://github.com/user-attachments/assets/cb49ad40-aad7-4901-8fc1-4ae8beae4642" alt="Project Banner">
-    </a>
-  <br />
+  
 
 <h3 align="center">Serverless AI Chatbot using Amazon Bedrock</h3>
 
-   <div align="center">
-     Build this hands-on demo step by step with my detailed tutorial on <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a> YouTube. Feel free to subscribe 🔔!
-    </div>
+  
 </div>
 
 ## 🚨 Tutorial
