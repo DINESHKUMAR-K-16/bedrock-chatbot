@@ -2,6 +2,12 @@
 
 <div align="center">
 
+ <br />
+    <a>
+      <img src="https://github.com/user-attachments/assets/cb49ad40-aad7-4901-8fc1-4ae8beae4642" alt="Project Banner">
+    </a>
+  <br />
+
   
 
 <h3 align="center">Serverless AI Chatbot using Amazon Bedrock</h3>
